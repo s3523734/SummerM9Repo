@@ -1,6 +1,7 @@
 # !/usr/bin/env python3
 #Ryan Larramore
 #7/31/23
+#Monday August 7
 #Switches and routers through files
 
 ##---->>>> Use a try/except clause to import the JSON module
